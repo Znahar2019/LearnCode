@@ -11,7 +11,6 @@ int main(int argc, char const *argv[]) {
   int fj = 8;
   int sum2 = fu+fj;
   char ng[]="iu";
-
   printf("%s: %s\n", bai, name);
   printf("Мне %d лет\n",age );
   printf("Через %d год мне будет %d год \n",year, sum
